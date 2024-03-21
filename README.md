@@ -7,4 +7,4 @@ Specific (and short) notes and titles written in main.py.
   Unfinished practice (18/03/2024); update tomorrow.
                       (19/03/2024); update tomorrow.
                       (20/03/2024); update tomorrow.
-                      
+    Finished practice (21/03/2024); updated.
